@@ -1,0 +1,3 @@
+for nummer in range (1000):
+    if nummer%7 == 0:
+     print (nummer)
