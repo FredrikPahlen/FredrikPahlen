@@ -1,3 +1,6 @@
+1. git bash here
+
+kod: 
 git add -A
 git commit -m "kommentar"
 git push -u origin master
